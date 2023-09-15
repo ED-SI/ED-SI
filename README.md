@@ -1,16 +1,13 @@
-### Hi there 👋
+## Olá, Mundo! Me chamo Edmilton Peixeira.
 
-<!--
-**ED-SI/ED-SI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Atualmente trabalho como Desenvolvedor back-end
 
-Here are some ideas to get you started:
+🍃 Estudando Spring Boot
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="left">
+  <img height="150em"
+    src="https://github-readme-stats-eight-theta.vercel.app/api?username=ED-SI&show_icons=true&theme=holi&include_all_commits=true&count_private=true" />
+  <img height="150em"
+    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ED-SI&layout=compact&langs_count=8&theme=holi" />
+</div>
+
