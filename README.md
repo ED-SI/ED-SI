@@ -2,7 +2,7 @@
 
 💻 Atualmente trabalho como Desenvolvedor back-end
 
-🍃 Estudando Spring Boot
+🍃 Estudando Spring Boot e Javascript
 
 <div align="left">
   <img height="150em"
