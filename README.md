@@ -1,26 +1,36 @@
-## Olá, Mundo! Me chamo Edmilton Peixeira.
+<h1 align="left">Olá, Mundo! Me chamo Edmilton. Bem-vindo ao meu perfil.</h1>
 
-💻 Atualmente trabalho como Desenvolvedor back-end
+<p align="left">💻 Atualmente trabalho como Desenvolvedor back-end e front-end<br><br>🍃 Estudando as tecnologias Spring Boot e Typescript<br><br></p>
 
-🍃 Estudando Spring Boot e Javascript
+<h3 align="left">Entre em contato:</h3>
 
-<div align="left">
-  <img height="150em"
-    src="https://github-readme-stats-eight-theta.vercel.app/api?username=EdmiltonPeixeira&show_icons=true&theme=ayu-mirage&include_all_commits=true&count_private=true" />
-  <img height="150em"
-    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=EdmiltonPeixeira&layout=compact&langs_count=8&theme=ayu-mirage" />
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/edmilton-ribeiro-peixeira/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edm.ufpasi@gmail.com)
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Edmilton-Java" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Edmilton-Spring" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-  <img align="center" alt="Edmilton-Oracle" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
-  <img align="center" alt="Edmilton-Git" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-</div>
+<h3 align="left">Linguagens e Ferramentas:</h3>
+<p align="left">
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/java-original.svg" alt="Java" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/springio-icon.svg" alt="Spring" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/typescript-original.svg" alt="Typescript" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/oracle-original.svg" alt="Oracle" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mysql-original-wordmark.svg" alt="Mysql" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+</p>
 
-##
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Estatísticas</h3>
 
-<div> 
-  <a href = "mailto:edm.ufpasi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/edmilton-ribeiro-peixeira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdmiltonPeixeira&layout=compact&theme=" alt=EdmiltonPeixeira />
+
+<p>&nbsp;<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=EdmiltonPeixeira&show_icons=true&locale=en&theme=" alt="EdmiltonPeixeira" /></p>
+
+<div align="center">
+<a href="https://github.com/EdmiltonPeixeira">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=EdmiltonPeixeira&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EdmiltonPeixeira&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EdmiltonPeixeira&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EdmiltonPeixeira&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EdmiltonPeixeira&theme=2077" height="180em" />
 </div>
