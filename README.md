@@ -27,5 +27,5 @@
 
 <div align="left">
 <a href="https://github.com/EdmiltonPeixeira">
-<img align="left" height="170em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EdmiltonPeixeira&theme=radical&include_all_commits=true" />
+<img align="left" height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EdmiltonPeixeira&theme=radical&include_all_commits=true" />
 </div>
