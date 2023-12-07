@@ -21,11 +21,11 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="left">Estatísticas</h3>
 
-<img align="left" height="345em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdmiltonPeixeira&theme=apprentice&include_all_commits=true&langs_count=5" alt=EdmiltonPeixeira />
+<img align="left" height="345em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdmiltonPeixeira&theme=radical&locale=en&include_all_commits=true&langs_count=5" alt=EdmiltonPeixeira />
 
-<p>&nbsp;<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=EdmiltonPeixeira&show_icons=true&locale=en&theme=apprentice&include_all_commits=true" alt="EdmiltonPeixeira" /></p>
+<p>&nbsp;<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=EdmiltonPeixeira&show_icons=true&locale=en&theme=radical&include_all_commits=true" alt="EdmiltonPeixeira" /></p>
 
 <div align="left">
 <a href="https://github.com/EdmiltonPeixeira">
-<img align="left" height="170em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EdmiltonPeixeira&theme=apprentice&include_all_commits=true" />
+<img align="left" height="170em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EdmiltonPeixeira&theme=radical&include_all_commits=true" />
 </div>
