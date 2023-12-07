@@ -1,13 +1,12 @@
 <h1 align="left">Olá, Mundo! Me chamo Edmilton. Bem-vindo ao meu perfil.</h1>
 
-<p align="left">💻 Atualmente trabalho como Desenvolvedor back-end e front-end<br><br>🍃 Estudando as tecnologias Spring Boot e Typescript<br><br></p>
-
-<h3 align="left">Entre em contato:</h3>
+<p align="left">💻 Atualmente trabalho como Desenvolvedor back-end e front-end<br><br>🍃 Estudando as tecnologias Spring Boot e Typescript<br></p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="left">Entre em contato:</h3>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/edmilton-ribeiro-peixeira/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edm.ufpasi@gmail.com)
 
-<h3 align="left">Linguagens e Ferramentas:</h3>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="left">Linguagens e Ferramentas:</h3>
 <p align="left">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/java-original.svg" alt="Java" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/springio-icon.svg" alt="Spring" width="40" height="40"/>
@@ -20,17 +19,13 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Estatísticas</h3>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="left">Estatísticas</h3>
 
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdmiltonPeixeira&layout=compact&theme=" alt=EdmiltonPeixeira />
+<img align="left" height="345em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdmiltonPeixeira&theme=apprentice&include_all_commits=true&langs_count=5" alt=EdmiltonPeixeira />
 
-<p>&nbsp;<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=EdmiltonPeixeira&show_icons=true&locale=en&theme=" alt="EdmiltonPeixeira" /></p>
+<p>&nbsp;<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=EdmiltonPeixeira&show_icons=true&locale=en&theme=apprentice&include_all_commits=true" alt="EdmiltonPeixeira" /></p>
 
-<div align="center">
+<div align="left">
 <a href="https://github.com/EdmiltonPeixeira">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=EdmiltonPeixeira&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EdmiltonPeixeira&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EdmiltonPeixeira&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EdmiltonPeixeira&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EdmiltonPeixeira&theme=2077" height="180em" />
+<img align="left" height="170em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EdmiltonPeixeira&theme=apprentice&include_all_commits=true" />
 </div>
