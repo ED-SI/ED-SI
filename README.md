@@ -22,8 +22,10 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <details>
   <summary><h3>Estatísticas</h3></summary>
-  <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=edmiltonpeixeira&layout=pie&theme=radical&locale=en&include_all_commits=true&count_private=true"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=edmiltonpeixeira&show_icons=true&locale=en&theme=radical&include_all_commits=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime/?username=edmiltonpeixeira&show_icons=true&locale=en&theme=radical&include_all_commits=true"/>
+  <div>
+    <img align="left" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=edmiltonpeixeira&layout=pie&theme=radical&locale=en&include_all_commits=true&count_private=true"/>
+    <img align="center" width="465" src="https://github-readme-stats.vercel.app/api/wakatime/?username=edmiltonpeixeira&show_icons=true&locale=en&theme=radical&include_all_commits=true"/><br><br>
+    <img align="left" height="205" src="https://github-readme-stats.vercel.app/api?username=edmiltonpeixeira&show_icons=true&locale=en&theme=radical&include_all_commits=true"/>
+  </div>
 </details>
 
