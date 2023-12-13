@@ -2,7 +2,7 @@
 
 <div align="center"><img src="Imagens/anime-house.gif" width="700" height="500"/></div><br>
 
-<p align="center">💻 Atualmente trabalho como Desenvolvedor back-end e front-end<br><br>🍃 Estudando as tecnologias Spring Boot, Typescript, Vue.js e Quasar<br></p>
+<div align="center"><h3>💻 Atualmente trabalho como Desenvolvedor back-end e front-end<br><br>🍃 Estudando as tecnologias Spring Boot, Typescript, Vue.js e Quasar</h3><br></div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="left">Entre em contato:</h3>
 
 <a href="https://www.linkedin.com/in/edmilton-ribeiro-peixeira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
